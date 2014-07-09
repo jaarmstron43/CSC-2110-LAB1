@@ -29,6 +29,6 @@ double getValidatedDouble(string prompt, double min, double max);
 //post: the text read from the keyboard is copied into the storage string
 String* readString(string prompt);
 };
-
+//woah
 #endif
 
